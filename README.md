@@ -215,7 +215,7 @@ Telecom-Customer-Churn-Analytics/
 
 # Dashboard Preview
 
-(Add Power BI dashboard screenshots here)
+(Images/PowerBI_Dashboard.png)
 
 ---
 

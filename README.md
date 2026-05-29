@@ -1,4 +1,6 @@
 # Telecom Customer Churn Analytics
+## Business Problem
+Customer churn is one of the biggest revenue challenges in the telecom industry. This project analyzes customer behavior, retention trends, and churn drivers using SQL, Python, Power BI, and predictive analytics to help businesses identify high-risk customers and improve retention strategies.
 
 ## Overview
 
@@ -32,6 +34,8 @@ The objective of this project was to:
 * Deliver actionable recommendations to improve customer retention
 
 ---
+## Analytics Workflow
+Dataset → SQL Data Analysis → Python EDA → Customer Segmentation → Logistic Regression Model → Power BI Dashboard → Business Insights & Recommendations
 
 # Tools & Technologies Used
 
@@ -173,6 +177,12 @@ An interactive Power BI dashboard was created to visualize:
 * Long-term contract customers demonstrated better retention rates
 
 ---
+## Key Business Insights
+- Month-to-month contract customers showed significantly higher churn probability.
+- Customers with shorter tenure were more likely to leave the service.
+- Electronic check payment users demonstrated increased churn risk.
+- Long-term contract customers had stronger retention performance.
+- High monthly charges correlated with elevated churn behavior.
 
 # Business Recommendations
 
@@ -227,6 +237,8 @@ Telecom-Customer-Churn-Analytics/
 * Integrate real-time customer analytics
 
 ---
+## Business Impact
+This project demonstrates how customer analytics and predictive modeling can support retention-focused business decisions, improve customer engagement strategies, and reduce revenue loss caused by customer churn.
 
 # Conclusion
 

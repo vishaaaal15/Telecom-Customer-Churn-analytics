@@ -264,7 +264,7 @@ The Tableau dashboard demonstrates cross-platform business intelligence capabili
 
 ### Tableau Dashboard
 
-![Tableau Dashboard](images/tableau_dashboard.png)
+![Tableau Dashboard](Images/Tableau_Dashboard.png)
 
 ---
 

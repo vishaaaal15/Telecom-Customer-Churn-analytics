@@ -252,7 +252,7 @@ The Tableau dashboard demonstrates cross-platform business intelligence capabili
 
 ### Excel Dashboard
 
-![Excel_Dashboard](images/Excel_Dashboard.png)
+![Excel_Dashboard](Excel_Dashboard.png)
 
 ---
 

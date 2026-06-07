@@ -258,7 +258,7 @@ The Tableau dashboard demonstrates cross-platform business intelligence capabili
 
 ### Power BI Dashboard
 
-![Power BI_Dashboard](images/PowerBI_Dashboard.png)
+![Power BI_Dashboard](Images/PowerBI_Dashboard.png)
 
 ---
 
@@ -270,7 +270,7 @@ The Tableau dashboard demonstrates cross-platform business intelligence capabili
 
 ### Feature Importance Analysis
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](Images/Features_importance.png)
 
 ---
 
